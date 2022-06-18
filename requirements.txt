@@ -1,0 +1,6 @@
+streamlit
+google-cloud-firestore
+Pillow
+PyDrive
+gsheetsdb==0.1.13
+

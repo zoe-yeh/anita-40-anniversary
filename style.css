@@ -1,0 +1,13 @@
+
+
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url('https://storage.googleapis.com/anita-40-anniversary-test/web-background-2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+}
